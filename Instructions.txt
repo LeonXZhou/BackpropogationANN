@@ -1,0 +1,4 @@
+1. Ensure all files are in the same folder.
+2. Run main.m in matlab
+
+note: code created using matlab version R2018a
